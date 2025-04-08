@@ -1,5 +1,5 @@
 # HVS_tools
-This repository contains resources for the study of heavy vector singlets (HVS), the physics of which is described in [2407.11116](https://arxiv.org/abs/2407.11117).
+This repository contains resources for the study of heavy vector singlets (HVS), the physics of which is described in [arXiv:2407.11116](https://arxiv.org/abs/2407.11117).
 
 The repository contains the following resources:
 
