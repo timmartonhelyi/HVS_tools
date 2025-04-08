@@ -3,5 +3,5 @@ This repository contains resources for the study of heavy vector singlets (HVS),
 
 The repository contains the following resources:
 
-* HVT_FeynRules: FeynRules model implementation v1.0 (also available at [HEPMDB](https://hepmdb.soton.ac.uk/index.php?mod=user&act=showmodel&id=349))
-* HVT_UFO_MadGraph: MadGraph UFO model v1.0 (also available at [HEPMDB](https://hepmdb.soton.ac.uk/index.php?mod=user&act=showmodel&id=349))
+* HVS_FeynRules: FeynRules model implementation v1.0 (also available at [HEPMDB](https://hepmdb.soton.ac.uk/index.php?mod=user&act=showmodel&id=349))
+* HVS_UFO_MadGraph: MadGraph UFO model v1.0 (also available at [HEPMDB](https://hepmdb.soton.ac.uk/index.php?mod=user&act=showmodel&id=349))
